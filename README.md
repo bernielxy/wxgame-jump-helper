@@ -40,7 +40,7 @@ nodemon 1.14.5
 
 4. 在浏览器中打开 [http://localhost:3000/jump](http://localhost:3000/jump) 看到如图示界面: 
 
-[首次打开][firstScreen]
+[首次打开][firstScreen]
 
 5. 如果一切正常，打开微信小游戏跳一跳, 点击开始游戏。
 
@@ -98,5 +98,5 @@ nodemon 1.14.5
 
 [firstScreen]: src/0.jpg
 [secondScreen]: src/1.jpg
-[adjustArgs]: src/2.
+[adjustArgs]: src/2.jpg
 [微信公众号]: src/sub.jpg
