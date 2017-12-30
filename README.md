@@ -40,7 +40,7 @@ nodemon 1.14.5
 
 4. 在浏览器中打开 [http://localhost:3000/jump](http://localhost:3000/jump) 看到如图示界面: 
 
-<img src="https://github.com/sharkspeed/wxgame-jump-helper/blob/master/src/images/0.jpg" width="300px" alt="首次打开"/>>
+<p align="center"><img src="https://github.com/sharkspeed/wxgame-jump-helper/blob/master/src/images/0.jpg" width="300px" alt="首次打开"/></p>
 
 5. 如果一切正常，打开微信小游戏跳一跳, 点击开始游戏。
 
@@ -48,7 +48,7 @@ nodemon 1.14.5
 
 7. 先点击小人所在位置，再点击要跳到的位置，如果参数配置正确，稍等几秒就可以看到得分画面。
 
-![得分画面][secondScreen]
+<p align="center"><img src="https://github.com/sharkspeed/wxgame-jump-helper/blob/master/src/images/1.jpg" width="300px" alt="得分画面"/></p>
 
 ## 参数调整
 
@@ -64,7 +64,7 @@ nodemon 1.14.5
 
 5. 参数计算方法参考[链接](https://www.cnblogs.com/NanShan2016/p/5493429.html)。在项目目录下运行 `python get_args.py` 获得如图示结果:
 
-![调参][adjustArgs]
+<p align="center"><img src="https://github.com/sharkspeed/wxgame-jump-helper/blob/master/src/images/2.jpg" width="300px" alt="调参结果"/></p>
 
 6. 复制 `k`, `b` 的值到 `views/jump.jade` 中 `jumpAction` 函数里，并将 needAdjust 恢复为 false
 
@@ -96,7 +96,4 @@ nodemon 1.14.5
 
 如果你有任何想法可以和我交流: 微信号 gitbear, [知乎](https://www.zhihu.com/people/gitbear/)
 
-[firstScreen]: https://github.com/sharkspeed/wxgame-jump-helper/blob/master/src/images/0.jpg
-[secondScreen]: https://github.com/sharkspeed/wxgame-jump-helper/blob/master/src/images/1.jpg
-[adjustArgs]: https://github.com/sharkspeed/wxgame-jump-helper/blob/master/src/images/2.jpg
 [微信公众号]: https://github.com/sharkspeed/wxgame-jump-helper/blob/master/src/images/sub.jpg
