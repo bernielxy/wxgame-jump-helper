@@ -40,7 +40,7 @@ nodemon 1.14.5
 
 4. 在浏览器中打开 [http://localhost:3000/jump](http://localhost:3000/jump) 看到如图示界面: 
 
-![首次打开](https://github.com/sharkspeed/wxgame-jump-helper/blob/master/src/images/0.jpg  | width=100)
+<img src="https://github.com/sharkspeed/wxgame-jump-helper/blob/master/src/images/0.jpg" width="300px" alt="首次打开"/>>
 
 5. 如果一切正常，打开微信小游戏跳一跳, 点击开始游戏。
 
