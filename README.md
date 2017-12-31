@@ -5,7 +5,7 @@
 一个帮助「跳一跳」玩家打榜的小工具。本项目受 [教你用Python来玩微信跳一跳](https://github.com/wangshub/wechat_jump_game) 启发，感谢[@wangshub](https://github.com/wangshub)，感谢 [悠望南山
 ](https://www.cnblogs.com/NanShan2016/p/5493429.html) 的 Python 代码片段。
 
-[![node](https://img.shields.io/node/v/passport.svg)]()
+[![node](https://img.shields.io/badge/node-v8.6.0.svg)]()
 [![npm](https://img.shields.io/npm/v/npm.svg)]()
 
 yarn v1.3.2
